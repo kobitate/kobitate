@@ -18,16 +18,16 @@ Hi there, I'm Kobi / Kai<br />
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
 </a>
 
+<a href="mailto:kobi@kobitate.com">
+<img src="https://img.shields.io/badge/kobi@kobitate.com-511c92?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="KoFi">
+</a>
+
 <a href="https://linkedin.com/in/kobitate">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://ko-fi.com/KaiTiggy">
 <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="KoFi">
-</a>
-
-<a href="mailto:kobi@kobitate.com">
-<img src="https://img.shields.io/badge/kobi@kobitate.com-511c92?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="KoFi">
 </a>
 
 <br />
