@@ -32,7 +32,10 @@ hi there, i'm Kobi / Kai<br />
 </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kobitate" width="48%" align="left" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="40%" align="left" /> 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=kobitate&theme=shades-of-purple&hide_border=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shades-of-purple&hide_border=true&include_all_commits=true" width="40%" /> 
+</a>
+</p>
 
