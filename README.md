@@ -7,9 +7,10 @@ Hi there, I'm Kobi / Kai<br />
 
 <img src="https://img.shields.io/static/v1?label=pronouns&amp;message=they/them&amp;labelColor=8FC965&amp;color=419B5A&amp;style=for-the-badge" alt="Prounouns They/Them">
 
+<img src="https://img.shields.io/static/v1?label=queer&message=as+fuck&labelColor=EF4041&color=C1282D&style=for-the-badge" alt="Queer as fuck">
+
 <img src="https://img.shields.io/static/v1?label=does%20not%20contain&amp;message=tree%20nuts&amp;labelColor=3BC4F3&amp;color=3C9AD5&amp;style=for-the-badge" alt="Does Not Contain Tree Nuts">
 
-<img src="https://img.shields.io/static/v1?label=uses&amp;message=badges&amp;labelColor=38C1D0&amp;color=45A4B8&amp;style=for-the-badge" alt="Uses Badges">
 
 <br />
 
@@ -23,6 +24,10 @@ Hi there, I'm Kobi / Kai<br />
 
 <a href="https://ko-fi.com/KaiTiggy">
 <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="KoFi">
+</a>
+
+<a href="mailto:kobi@kobitate.com">
+<img src="https://img.shields.io/badge/kobi@kobitate.com-511c92?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="KoFi">
 </a>
 
 <br />
