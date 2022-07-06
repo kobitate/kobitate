@@ -14,7 +14,8 @@ hi there, i'm Kobi / Kai<br />
 <br />
 
 <a href="https://t.me/kaitiggy">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram">
+</a>
 
 <a href="https://linkedin.com/in/kobitate">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
