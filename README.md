@@ -1,5 +1,5 @@
 <h1 align="center">
-hi there, i'm Kobi / Kai<br />
+Hi there, I'm Kobi / Kai<br />
 :sparkles: :tiger2: :transgender_flag: :rainbow_flag: :dog2: :sparkles:
 </h1>
 
