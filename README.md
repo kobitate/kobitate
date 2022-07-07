@@ -33,7 +33,7 @@ Hi there, I'm Kobi / Kai<br />
 <br />
 
 <a href="https://last.fm/user/kaitiggy">
-<img src="https://badges.lastfm.workers.dev/last-played?user=kaitiggy&style=flat-square&labelColor=EF4041&color=C1282D" />
+<img src="https://badges.lastfm.workers.dev/last-played?user=kaitiggy&style=flat-square&labelColor=EF4041&color=C1282D&cacheSeconds=3600" />
 </a>
 </p>
 
